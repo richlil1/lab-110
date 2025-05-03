@@ -29,4 +29,59 @@ exploiting software bugs, leveraging insecure setups, and taking advantage of un
 
 
 
+Penetraton Testing Ethics 
+A penetration test is an authorised audit f a computer system's security and defences as agreed by the owners of the systems.  
+  The legality of penetration is pretty clear cut in this sense; anything that falls outside of this agreement is deemed unauthorisd 
+    A formal discussion occurs between the penetration tester and the system owner before the tester.
+      Tools,techniques, and systems to be tested are agreed on
+        The discussion forms the scope of the penetration testing agreement 
+            This will determine the take of the test 
+                Companies that provide this testing are held against frameworks and industry accreditation.
+            Ex. National Cyber Security centre has the CHECK accreditationscheme in the UK
+              meaning that only approved comanies can conduct authorised penetration tests of public sector and CNI sytems and networks"(NCSC)
+                  Ethics is the moral debate between right and where an action may be legal , it may go againast an individual's belief system of right and wrong.
+                    Penetration testers will often be faced with potentially morally questionable decisions during a penetration test.
+                      Ex. they are gaining access to a database and being presented with potential sensitive data.
+                        Performing a phising attack on an employee to test an organisation's human security.
+                          If that action hass been agreed upon during the initial stages, it is legal, but ethically questionable.  
+                      These groups of hacer are sorted into three, where the ethics and motivation behind their actions determine what hat they are sorted into.
+                        Hat 1 White 
+                         These are the good people
+                         remains with the law and use these skills to benefit the enviroment around them
+                      Hat 2 Grey 
+                      uses skills to benefit other 
+                      does not respect or follow the law or thical standards a all times
+                  Hat 3 Black
+                    Criminals
+                    Seeks damage owards other organisations 
+                    gains some form f finacial benefit at the cost of others
 
+
+
+
+Rules of Engagement 
+  document that is created at the initial stages of a eneration testing engagement
+    consits of three main sections
+      Ultimately responsible for deciding how the engagement is carried out
+        Permision  
+          Section of document that gives explicit permission for the engagemnt to be carried out 
+          Permission is essential to legally protect individuals and organisations for the activities they carry out 
+        Test Scope 
+          Section of document that will annotate specific targets to which the engagement
+          Ex. pentration test may only apply to certain servers or applications but not the entire network
+        Rules 
+          Section of the document that defines exactly the techniques that are permitted during the engagemtn.
+          Ex. rules may specifically state that techniques such as phising ttacks are prohibited, but MITH (MAN IN THE MIDDLE) attacks are okay
+
+
+
+Methodologies 
+  steps the penetration tester take during an engagement
+  a smart one would be known as a practical methodology (steps that are taken are relevant to the situation at hand)
+  Ex. having a methodology that you would use to test the scurity of a web application is not practical when you have to test the security of a network
+    Stages of Methodology
+    Info Gathering 
+      This stge involves collecting as much publicall accesible information about a targe/organisation as possible, for example, OSINT and researc 
+    Enumeratio/Scanning
+      This stage involves discovering applications and services running on the systems 
+  
