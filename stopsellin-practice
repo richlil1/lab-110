@@ -1,1 +1,14 @@
+*** Pre Security pathway ***
 
+
+
+OFFENSIVE SECURITY (red teams)
+aims to identify and exploit system vulnerabilities to enhance security measures
+  Red teams and penetration testers specialize in these offensive techniques.
+
+using command-line application "Gobuster" to find hidden directories and pages
+
+gobuster -u http://fakebank.thm -w wordlist.txt dir
+-u is used to state the website we are scanning
+-w takes a list of words to iterate through to find hidden pages
+Gobuster scans website with each word in list, tells pages in list of page/directory names
