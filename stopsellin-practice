@@ -1,1 +1,14 @@
+Open A Terminal
+ A terminal also know as the command line allows us to ineract with a comuter without using a graphical user interface.
 
+Use Gobuster To Find Hidden Website Pages
+( Most companes have an admin portal page that gives their staff access to basic adimn controls for day to dy operations)
+In the bank a employee might need to transfer money to and from client accounts
+Due to a n error or negligance it may be instances when these pages are not made private
+This allow attackers to find hidden pages that shows or gives access to admin controls or sensitive data
+
+Hack the Bank
+You should have found a secret bank transfer page that allows you to transfer money between bank accounts.
+Type the hidde page into the FakeBank website using the browser's address bar. 
+From this page an attacker has authorized acces and can steal money from any bank account 
+Being a ethical hacker you would fin vulnerabilities in their application and report them before a hacker exploits them
