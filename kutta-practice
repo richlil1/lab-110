@@ -16,6 +16,8 @@ To begin, type the following command into the terminal to find potentially hidde
 gobuster -u http://fakebank.thm -w wordlist.txt dir
 
 
+Linux
+
 
 
 
