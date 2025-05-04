@@ -126,6 +126,33 @@ Privilege Escalation : footholding, attempt to expand your access to a system. y
 
 
 
+******Linux ::  :: :: :: ::   :: ::::    :::::    :::   :::  ::::
+
+in the terminal commmands and their use: 
+echo == output any text provided ( use string " " when a space is input )
+whoami == username currently logged in 
+ls == list of everything   ( files and folders existing in current path or dir ) 
+cd == change directory 
+cat == concatenate (contents of files)
+pwd == print working directory
+find == find specific dir and their contents
+      find -name .{ ... } == searches and tell us the location of a file with the corresponding name 
+        find *.{} == finds every file with the .txt or .{} name ( .txt )
+
+grep == search the entire contents of files for specific values 
+wc == count the number of entries { or files }  in a locatoin  --e.x: ( wc -l access.log ) 
+
+                      SYMBOLS
+& == allows commands to run in the background of terminal 
+&& == allows combination of multi cmds together in one line of terminal 
+> == redirector --> take output from a cmd ( using cat to output a file ) adn direct it somewehre else
+>> == same as { > } but doesnt overwrite anythingf jsut places output at hte end of the file
+
+
+
+
+
+
 
 
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
