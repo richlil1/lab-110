@@ -84,4 +84,33 @@ Methodologies
       This stge involves collecting as much publicall accesible information about a targe/organisation as possible, for example, OSINT and researc 
     Enumeratio/Scanning
       This stage involves discovering applications and services running on the systems 
-  
+       Ex. Finding a web server that may b potentially vulnerable 
+    Exploition
+      Stage that involves leveraging vulnerabilities discovered on a system or application
+        Also can involve the use of public exploits or exploiting 
+    Privilege Escalation 
+      After a sucessfull exploited system or application (foothold)
+        This stage is the attempt to expand your access to a system
+            can escalate in both ways horizontally and veticall
+                horizonally is accessing another account of the same permission group
+                  whereareas vertically is the same but of another permission group 
+    Post Exploitation
+      Involves  few sub-sages 
+        what other hosts can be targeted (pivoting)
+        What additional you can gther from the host now that we are priveleged user
+        Covering your tracks 
+        Reporting
+
+
+
+OSSTMM (Open Source Security Test Mehodology Manual)
+  Provides a detailed framework of testing strategies for systems, software, applications, communications and the uman aspect of cybersecurity 
+   Advantages
+  Covers various testing strategies in-depth
+  Includes testing strategies for secific targets 
+  The framework is flexible dependin upon the organisation's needs
+  The framework is mean to set a standard for systems and application, meaning to set a standard for systems and application, meaning a universal methodology can be used in a penetration testing scenario
+    Disadvantages 
+  The framework is difficult to understand, very detailed, and tends to use unique definitions
+
+
